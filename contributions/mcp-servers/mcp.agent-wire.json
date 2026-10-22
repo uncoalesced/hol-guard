@@ -47,7 +47,7 @@
     },
     {
       "name": "wire_status",
-      "state": "inherit"
+      "state": "review"
     },
     {
       "name": "wire_me",
